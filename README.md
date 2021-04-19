@@ -1,4 +1,12 @@
- ### Hi there 👋
+### Hi there, I'm Sezer👋
+
+- 🌱 I’m currently learning C# and Java
+- 🔭 I’m currently student on Astronomy
+- 💻 I love writing code
+
+📫 How to reach me:
+
+
 
 <!--
 **sezerbozbiyik/sezerbozbiyik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
