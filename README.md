@@ -1,4 +1,4 @@
-### Hi there, I'm Sezer👋
+## Hi there, I'm Sezer👋
 
 - 🌱 I’m currently learning C# and Java
 - 🔭 I’m currently student on Astronomy
