@@ -1,7 +1,7 @@
 # Hi there, I'm Sezer👋
 
 - 🌱 I’m currently learning C# and Java
-- 🔭 I’m currently student on Astronomy
+- 🔭 I’m graduate on Astronomy
 - 💻 I love writing code
 
  📫 How to reach me:
