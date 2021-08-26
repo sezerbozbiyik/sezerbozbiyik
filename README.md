@@ -1,6 +1,6 @@
 # Hi there, I'm Sezer👋
 
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning C#, .Net Core, Php and Java
 - 🔭 I’m graduate on Astronomy
 - 💻 I love writing code
 
