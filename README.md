@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/sezer-bozbıyık-090536136/" target="_blank" rel="nofollow"><img alt="Sezer's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sezer.bzbyk@gmail.com" target="_blank" rel="nofollow"><img alt="Sezer's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.sezerbozbiyik.com" target="_blank" rel="nofollow"><img alt="Sezer's Web Site" src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" /></a>
+<a href="https://www.sezerbozbiyik.com" target="_blank" rel="nofollow"><img alt="Sezer's Web Site" src="https://img.shields.io/website?up_color=green&up_message=Cv" /></a>
 
 
 <!--
