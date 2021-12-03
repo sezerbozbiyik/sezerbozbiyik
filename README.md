@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C#, .Net Core, Php and Java
 - 🔭 I’m graduate on Astronomy
-- 💻 I love writing code
+- 💻 I like writing code
 
  📫 How to reach me:
 
