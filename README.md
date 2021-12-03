@@ -6,7 +6,7 @@
 
  📫 How to reach me:
 
-<a href="https://www.sezerbozbiyik.com"><img alt="Sezer's Web Site" src="https://img.shields.io/website?down_color=gree&down_message=Cv&url=https://www.sezerbozbiyik.com" /></a>
+<a href="https://www.sezerbozbiyik.com"><img alt="Sezer's Web Site" src="https://img.shields.io/website?down_color=gree&down_message=Cv&label=sezerbozbiyik.com&url=https://www.sezerbozbiyik.com" /></a>
 
 <a href="https://www.linkedin.com/in/sezer-bozbıyık-090536136/" target="_blank" rel="nofollow"><img alt="Sezer's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sezer.bzbyk@gmail.com" target="_blank" rel="nofollow"><img alt="Sezer's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
